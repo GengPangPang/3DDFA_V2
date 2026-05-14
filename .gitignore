@@ -18,6 +18,7 @@ websmooth.py
 demo_webcam.py
 
 examples/inputs/spoof/
+outputs/
 weights/*.onnx
 configs/ncc_code_53215.npy
 pr.*
