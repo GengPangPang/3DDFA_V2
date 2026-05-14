@@ -1,0 +1,32 @@
+{
+  "face_index": 2,
+  "roi_box": [
+    111.502685546875,
+    359.2540283203125,
+    998.502685546875,
+    1246.2540283203125
+  ],
+  "pose_pitch_yaw_roll": [
+    0.5772633669431171,
+    0.20865274461637343,
+    -0.0835939762568303
+  ],
+  "standard_outputs": {
+    "2d_sparse": "outputs/emma_all_faces/face_002/visualizations/2d_sparse.jpg",
+    "2d_dense": "outputs/emma_all_faces/face_002/visualizations/2d_dense.jpg",
+    "3d": "outputs/emma_all_faces/face_002/visualizations/3d.jpg",
+    "depth": "outputs/emma_all_faces/face_002/visualizations/depth.jpg",
+    "pncc": "outputs/emma_all_faces/face_002/visualizations/pncc.jpg",
+    "uv_tex": "outputs/emma_all_faces/face_002/visualizations/uv_tex.jpg",
+    "pose": "outputs/emma_all_faces/face_002/visualizations/pose.jpg",
+    "ply": "outputs/emma_all_faces/face_002/geometry/face.ply",
+    "obj": "outputs/emma_all_faces/face_002/geometry/face.obj"
+  },
+  "frontal_outputs": {
+    "front": "outputs/emma_all_faces/face_002/renders_frontal/front.png",
+    "left": "outputs/emma_all_faces/face_002/renders_frontal/left.png",
+    "right": "outputs/emma_all_faces/face_002/renders_frontal/right.png",
+    "iso": "outputs/emma_all_faces/face_002/renders_frontal/iso.png",
+    "grid": "outputs/emma_all_faces/face_002/renders_frontal/frontal_views_grid.png"
+  }
+}
