@@ -227,6 +227,6 @@ if __name__ == "__main__":
     main()
 
 # python render_opengl_obj.py \
-#   --obj examples/results/emma_obj.obj \
-#   --out_dir outputs/opengl_renders \
+#   --obj outputs/mask_side2_res/face_000/geometry/face.obj \
+#   --out_dir outputs/mask_side2_res \
 #   --bg_mode light
